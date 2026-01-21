@@ -3,7 +3,7 @@ import random
 
 # --- THEME & LOGO ---
 st.set_page_config(page_title="Mariam Guessing Game", page_icon="🤖❤️")
-st.title("🤖❤️ Mariam Guessing Game")
+st.title("🤖❤️ Number Guessing Game")
 
 # --- GAME LOGIC (Using Session State) ---
 # This ensures the number doesn't change every time you guess
